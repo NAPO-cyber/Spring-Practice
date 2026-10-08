@@ -1,0 +1,5 @@
+com\product\catalog\model\Product.class
+com\product\catalog\service\ProdServ.class
+com\product\catalog\repository\ProdRepo.class
+com\product\catalog\CatalogApplication.class
+com\product\catalog\controller\ProdController.class
